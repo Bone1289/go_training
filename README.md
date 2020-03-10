@@ -1,1 +1,1 @@
-# Adding go training UDEMY exercise
+# Adding go dummy exercise
