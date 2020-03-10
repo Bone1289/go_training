@@ -1,1 +1,1 @@
-# go_training
+# Adding go training UDEMY exercise
